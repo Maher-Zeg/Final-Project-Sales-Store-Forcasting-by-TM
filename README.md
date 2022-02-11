@@ -18,7 +18,7 @@
 
 This project is about time series forcasting for store sales. The data comes from an Ecuador company as known as Corporación Favorita and it is a large grocery retailer. Also, the company operates in other countries in South America.
 
-There are 54 stores and 33 prodcut families in the data. The time serie starts from 2013-01-01 and finishes in 2017-08-15.
+There are 54 stores and 33 prodcut families in the data. The time serie starts from 01-01-2013 and finishes in 15-08-2017.
 
 
 
